@@ -9,4 +9,5 @@ For better understanding of the problem we are going to visualize the tour of th
 
 # Software used for visualization
 For visualization purpose we are going to a free software "Blender". It provides us vast tools which will be needed for our visualization purpose.
- [!Image for blender](https://github.com/mrugendrakul/Knight-s-tour/blob/main/1.png?raw=true)
+
+https://github.com/mrugendrakul/Knight-s-tour/blob/main/1.png?raw=true
