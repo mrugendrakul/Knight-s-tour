@@ -8,6 +8,6 @@ Before going for real problem first let us understand how a knight moves in ches
 For better understanding of the problem we are going to visualize the tour of the knight problem in 3D using which we will have bettering understanding about the problem.
 
 # Software used for visualization
-For visualization purpose we are going to a free software "Blender". It provides us vast tools which will be needed for our visualization purpose.
+For visualization purpose we are going to a free software "Blender". It provides us vast tools which will be needed for our visualization purpose
 
-https://github.com/mrugendrakul/Knight-s-tour/blob/main/1.png
+![image] (https://github.com/mrugendrakul/Knight-s-tour/blob/main/1.png)
