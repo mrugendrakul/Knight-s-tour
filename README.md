@@ -32,3 +32,6 @@ Else
 First you will need to get the Blender app from its official store for your os.
 Then after starting the blender go to file and open and select the file which is availble in this repository.
 Done just click on the play button on the timeline space, it near the bottom of the screen.
+
+# Sample rendered video 
+ https://github.com/mrugendrakul/Knight-s-tour/blob/main/algoKnight0001-1000.mp4
