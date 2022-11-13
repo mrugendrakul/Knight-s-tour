@@ -34,4 +34,4 @@ Then after starting the blender go to file and open and select the file which is
 Done just click on the play button on the timeline space, it near the bottom of the screen.
 
 # Sample rendered video 
- no video 
+https://user-images.githubusercontent.com/102402944/201506627-6214a9e6-1da6-4501-9dd3-fe6181d3984f.mp4
